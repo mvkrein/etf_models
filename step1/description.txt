@@ -1,0 +1,1 @@
+In step 1 I download market data for a list of ETFs.
