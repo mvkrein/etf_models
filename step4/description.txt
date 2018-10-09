@@ -1,1 +1,1 @@
-In step 4, I assess performance of the models compared to a benchmark.
+In step 4, I assess performance of the models compared to a benchmark.  The "daily" version looks at 21 separate portfolios and averages the results.
